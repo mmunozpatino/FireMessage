@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128572759976",
+    "firebase_url": "https://firemessage-3bbf4.firebaseio.com",
+    "project_id": "firemessage-3bbf4",
+    "storage_bucket": "firemessage-3bbf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128572759976:android:5d93b0ab9fd824c7",
+        "android_client_info": {
+          "package_name": "com.mercedes.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128572759976-9mvlvstrosb8013nmru4v6uuib3cpe41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-fuPC_NoUO6mLa1GwvDUCNiIVuGMe7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
