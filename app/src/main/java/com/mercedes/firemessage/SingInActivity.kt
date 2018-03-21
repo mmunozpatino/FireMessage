@@ -27,7 +27,7 @@ class SingInActivity : AppCompatActivity() {
                     .setAvailableProviders(singInProviders)
                     .setLogo(R.drawable.ic_ic_fire_emoji)
                     .build()
-            startActivityForResult(intent,RC_SING_IN)
+            startActivityForResult(intent,1)
         }
 
 
