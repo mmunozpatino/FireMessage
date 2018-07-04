@@ -28,6 +28,7 @@ class SingInActivity : AppCompatActivity() {
                     .setLogo(R.drawable.ic_ic_fire_emoji)
                     .build()
             startActivityForResult(intent,1)
+            //holaaaa
         }
 
 
